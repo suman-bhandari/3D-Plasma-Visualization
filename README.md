@@ -11,7 +11,7 @@ This visualization project shows how the temperature within the plasma changes w
 
 <div style="text-align: justify">
      <br>
-The data is extracted from Ahmed et.al. 2008 paper titled “Spectroscopic study of laser-induced plasma in aqueous media”. The paper reports the laser-induced plasma temperature on the surface of ionic solutions of Ca++. Linear interpolation is used to create more data points at different times and distances. The Jupyter Notebook file used to generate the data points is inside the [Data Generation](https://github.com/suman-bhandari/3D-Plasma-Visualization/tree/main/Data%20Generation) folder.
+The data is extracted from Ahmed et.al. 2008 paper titled “Spectroscopic study of laser-induced plasma in aqueous media”. The paper reports the laser-induced plasma temperature on the surface of ionic solutions of Ca++. Linear interpolation is used to create more data points at different times and distances. The Jupyter Notebook file used to generate the data points is inside the <a href="https://github.com/suman-bhandari/3D-Plasma-Visualization/tree/main/Data%20Generation">Data Generation</a> folder.
 </div>
 
 ## Interacting with the visualization
